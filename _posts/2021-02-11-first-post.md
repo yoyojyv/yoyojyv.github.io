@@ -14,3 +14,11 @@ github.io 블로그를 시작하기로 했다.
 이 글의 제목 : {{ page.title }}
 
 마지막으로 수정된 시간 : {{ page.last_modified_at }}
+
+test
+~~~javascript
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+~~~
