@@ -6,7 +6,7 @@ categories:
   - MSA
 tags: 
   - MSA
-last_modified_at: 2021-02-12T11:58:08+09:00
+last_modified_at: 2021-02-12T12:05:22+09:00
 ---
 
 마이크로서비스 어플리케이션은 **자율적인 서비스**의 집합이다. 
@@ -94,7 +94,9 @@ https://www.infoq.com/news/2015/04/north-kerr-complexity-code/
 - Try-Confirm/Cancel: https://dzone.com/articles/transactions-for-the-rest-of-us
 
 ### Two-Phase Commit, SAGA pattern
-https://medium.com/giljae/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87
+- https://medium.com/giljae/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87
+- https://microservices.io/patterns/data/saga.html
+- https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
 
 ### MSA에서 메시징 트랜잭션 처리하기
 https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%A9%94%EC%8B%9C%EC%A7%95-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0
